@@ -8,13 +8,16 @@ public class PracticaGitEclipse {
 		System.out.println("Cuál es la clave¿?: ");
 		clave=teclado.nextInt();
 		
-		if(clave==1234) {
+		if(clave==123456) {
+			
 			System.out.println("Correcto!!!");
 		}	
 		
 		else {
 			System.out.println("Incorrecto!");
 		}
+		// Modificación realizada en la rama desarrollo
+
 		
 		teclado.close();
 	}
