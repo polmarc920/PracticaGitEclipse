@@ -16,6 +16,8 @@ public class PracticaGitEclipse {
 		else {
 			System.out.println("Incorrecto!");
 		}
+		// Modificación realizada en la rama desarrollo
+
 		
 		teclado.close();
 	}
